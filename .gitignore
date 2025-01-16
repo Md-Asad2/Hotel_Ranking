@@ -1,0 +1,24 @@
+*.class
+*.classpath
+*.settings
+*.factorypath
+
+# Package Files #
+# *.jar #
+*.war
+*.ear
+
+# Folder Files #
+target
+bin
+.metadata
+.m2
+.project
+*.project
+/xms-server/xms-uploadservice/*.springBeans
+
+/xms-server/xms/*.log
+/.recommenders/
+
+.idea
+.git
